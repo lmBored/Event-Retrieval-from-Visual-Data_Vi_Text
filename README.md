@@ -1,1 +1,4 @@
-# Event-Retrieval-from-Visual-Data_-Vi-Text-
+# Event Retrieval from Visual Data: Vi
+
+## Tutorial
+
